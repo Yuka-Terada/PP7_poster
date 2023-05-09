@@ -1,4 +1,4 @@
-# EAALMA_poster
+# spidi poster
 
 - Name: Yuka Terada
 - email address: yterada@asiaa.sinica.edu.tw
